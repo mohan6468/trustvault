@@ -1,0 +1,8 @@
+{
+  "name": "TrustVault — Secure Document Sharing & Cryptographic Audit",
+  "description": "Zero-trust document sharing platform with instant access revocation, cryptographic tamper-evident audit trails, dynamic forensic watermarking, and verifiable access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
